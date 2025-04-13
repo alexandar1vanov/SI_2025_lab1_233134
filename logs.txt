@@ -1,0 +1,15 @@
+*   cf44eab Merge branch 'master' of https://github.com/alexandar1vanov/SI_2025_lab1_233134
+|\  
+| *   8949adf Merge pull request #11 from alexandar1vanov/filter-tasks-by-category
+| |\  
+| | * a6c4c21 filter tasks by category
+| * |   4da1f29 Merge pull request #12 from alexandar1vanov/count-tasks-per-category
+| |\ \  
+| | |/  
+| |/|   
+| | * abe8078 count tasks per category
+| |/  
+* / 74350a8 list tasks sorted by name
+|/  
+* 41528f4 Add starter code
+* f61cfe2 Initial commit

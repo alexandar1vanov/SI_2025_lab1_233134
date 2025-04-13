@@ -1,0 +1,8 @@
+13. git fetch origin
+14. git checkout list-tasks-sorted-by-name
+15. 
+16. git add SI2025Lab1Main.java 
+    git commit -m "list tasks sorted by name"
+17. git push origin list-tasks-sorted-by-name
+18. 
+
